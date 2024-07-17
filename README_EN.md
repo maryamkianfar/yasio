@@ -16,6 +16,7 @@
 
 ## Supported Platforms
 
+
 | Build | Status (github) |
 |-------|-----------------|
 | Windows(msvc,clang,mingw)|[![Windows Build Status](https://github.com/yasio/yasio/workflows/windows/badge.svg)](https://github.com/yasio/yasio/actions?query=workflow%3Awindows)|
